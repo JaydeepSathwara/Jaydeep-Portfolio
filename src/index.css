@@ -11,12 +11,12 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: #1f1f38;
-    --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-bg: #e9af00;
+    --color-bg-variant: #fcfcfb;
+    --color-primary: rgb(97, 16, 16);
+    --color-primary-variant: #126a76;
+    --color-white: #05757b;
+    --color-light: rgba(27, 255, 255, 0.6);
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
@@ -37,7 +37,7 @@ body {
     color: var(--color-white);
     line-height: 1.7;
     /* background-image: url(../src/assets/bg-texture.jpg); */
-    background-color: #1f1f38;
+    background-color: #FDEBD0;
 }
 
 .container {
