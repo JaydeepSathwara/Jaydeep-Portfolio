@@ -21,23 +21,27 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experience</h5>
-              <small>3+ Years Experience</small>
+              <small>2+ Years Experience</small>
             </article>
             <article className='about_card'>
               <HiUsers className='about_icon' />
-              <h5>Clients</h5>
-              <small>12</small>
+              <h5>College Grade</h5>
+              <small>8.13</small>
             </article>
             <article className='about_card'>
               <ImFolderOpen className='about_icon' />
               <h5>Project Completed</h5>
-              <small>3+ Years Experience</small>
+              <small>12</small>
             </article>
           </div>
           <div className="about_contant">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil itaque autem, magni obcaecati culpa ullam pariatur eligendi, hic alias reiciendis illo tempore ipsum? Dolore quas similique perferendis sunt labore nam.</p>
+            <p>
+              Hello, I'm Jaydeep Sathwara, a 4th-year student at Ganpat University.
+              As a passionate web developer, I have been fortunate to work on numerous projects worldwide, providing freelance services.
+              With a strong focus on creating engaging and user-friendly websites, I am passionate for Web Development. 
+              </p>
           </div>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's Connect</a>
         </div>
       </div>
     </section>

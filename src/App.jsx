@@ -3,11 +3,10 @@ import Headers from './components/header/Header.jsx';
 import Nav from './components/nav/Nav.jsx';
 import About from './components/about/About.jsx';
 import Experience from './components/experience/Experience.jsx';
-import Services from './components/services/Services.jsx';
-import Portfolio from './components/portfolio/Portfolio.jsx';
-import Testimonial from './components/testimonial/Testimonial.jsx';
+import Projects from './components/projects/Projects.jsx';
 import Contact from './components/contact/Contact.jsx';
 import Footer from './components/footer/Footer.jsx';
+import Achivement from './components/achivement/Achivement.jsx';
 
 const App = () => {
   return (
@@ -16,9 +15,8 @@ const App = () => {
       <Nav />
       <About />
       <Experience />
-      {/* <Services /> */}
-      <Portfolio />
-      {/* <Testimonial /> */}
+      <Projects />
+      <Achivement />
       <Contact />
       <Footer />
     </div>
